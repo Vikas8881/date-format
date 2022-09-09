@@ -1,0 +1,1 @@
+lblDate.Text=Convert.ToDateTime(YourDateVariable).ToString("dd/MM/yyyy hh:mm tt");
